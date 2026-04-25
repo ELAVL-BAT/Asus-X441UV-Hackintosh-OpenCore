@@ -39,7 +39,7 @@ A highly optimized and stable OpenCore EFI for the **ASUS X441UV** series. This 
 - **BT** - Need more patches, and honestly just not worth the fix. Just change the whole wifi card for best experience.
 
 ## Fixing WI-FI For native feel - Tutorial for Athernos cards
-## Wi-Fi (Atheros AR9565)
+# Wi-Fi (Atheros AR9565)
 Supported upto High Sierra (Support dropped in Mojave).
 <br />
 <br />
