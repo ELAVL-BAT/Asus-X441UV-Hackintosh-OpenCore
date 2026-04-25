@@ -7,7 +7,7 @@
 A highly optimized and stable OpenCore EFI for the **ASUS X441UV** series. This configuration has been battle-tested for daily productivity.
 
 ![Image 1](ss1.png)
-![Image 2](ss2.png)
+![Image 2](asdasd.png)
 
 ## 💻 System Specifications
 | Component | Details |
