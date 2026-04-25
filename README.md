@@ -38,7 +38,7 @@ A highly optimized and stable OpenCore EFI for the **ASUS X441UV** series. This 
 - **NVIDIA dGPU** - macOS does not support Optimus technology. Disabled to save battery and reduce heat.
 - **BT** - Need more patches, and honestly just not worth the fix. Just change the whole wifi card for best experience.
 
-# Fixing WI-FI For native feel - Tutorial for Athernos cards
+# Fixing WI-FI For native feel - Tutorial for Atheros cards
 Wi-Fi (Atheros AR9565)
 Supported upto High Sierra (Support dropped in Mojave).
 <br />
